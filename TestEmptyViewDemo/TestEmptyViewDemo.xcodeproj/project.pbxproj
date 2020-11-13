@@ -18,6 +18,7 @@
 		59F0B22F255E62E500A446E2 /* BaseTableVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 59F0B22E255E62E500A446E2 /* BaseTableVC.m */; };
 		59F0B233255E63AA00A446E2 /* DemoEmptyView.m in Sources */ = {isa = PBXBuildFile; fileRef = 59F0B232255E63AA00A446E2 /* DemoEmptyView.m */; };
 		59F0B241255E653F00A446E2 /* TestWMPageVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 59F0B240255E653F00A446E2 /* TestWMPageVC.m */; };
+		59F0B251255E686000A446E2 /* TestJXCategoryVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 59F0B250255E686000A446E2 /* TestJXCategoryVC.m */; };
 		DB7DFC7A4CD460745A23E99C /* Pods_TestEmptyViewDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0B2EC86E7092CDA8C390BDB6 /* Pods_TestEmptyViewDemo.framework */; };
 /* End PBXBuildFile section */
 
@@ -44,6 +45,8 @@
 		59F0B232255E63AA00A446E2 /* DemoEmptyView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DemoEmptyView.m; sourceTree = "<group>"; };
 		59F0B23F255E653F00A446E2 /* TestWMPageVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestWMPageVC.h; sourceTree = "<group>"; };
 		59F0B240255E653F00A446E2 /* TestWMPageVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestWMPageVC.m; sourceTree = "<group>"; };
+		59F0B24F255E686000A446E2 /* TestJXCategoryVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestJXCategoryVC.h; sourceTree = "<group>"; };
+		59F0B250255E686000A446E2 /* TestJXCategoryVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestJXCategoryVC.m; sourceTree = "<group>"; };
 		9C28A14F7CEE89EFBFAA87AF /* Pods-TestEmptyViewDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestEmptyViewDemo.debug.xcconfig"; path = "Target Support Files/Pods-TestEmptyViewDemo/Pods-TestEmptyViewDemo.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -92,6 +95,8 @@
 				59F0B22A255E62BE00A446E2 /* TestVC1.m */,
 				59F0B23F255E653F00A446E2 /* TestWMPageVC.h */,
 				59F0B240255E653F00A446E2 /* TestWMPageVC.m */,
+				59F0B24F255E686000A446E2 /* TestJXCategoryVC.h */,
+				59F0B250255E686000A446E2 /* TestJXCategoryVC.m */,
 				59F0B231255E63AA00A446E2 /* DemoEmptyView.h */,
 				59F0B232255E63AA00A446E2 /* DemoEmptyView.m */,
 				59F0B208255E463F00A446E2 /* Main.storyboard */,
@@ -234,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				59F0B207255E463F00A446E2 /* ViewController.m in Sources */,
+				59F0B251255E686000A446E2 /* TestJXCategoryVC.m in Sources */,
 				59F0B201255E463F00A446E2 /* AppDelegate.m in Sources */,
 				59F0B233255E63AA00A446E2 /* DemoEmptyView.m in Sources */,
 				59F0B241255E653F00A446E2 /* TestWMPageVC.m in Sources */,

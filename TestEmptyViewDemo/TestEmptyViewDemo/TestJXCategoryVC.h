@@ -1,16 +1,15 @@
 //
-//  BaseTableVC.h
+//  TestJXCategoryVC.h
 //  TestEmptyViewDemo
 //
 //  Created by 简剑豪 on 2020/11/13.
 //
 
 #import "BaseVC.h"
-#import "JXCategoryListContainerView.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface BaseTableVC : BaseVC<JXCategoryListContentViewDelegate>
+@interface TestJXCategoryVC : BaseVC
 
 @end
 

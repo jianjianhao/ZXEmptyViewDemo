@@ -7,7 +7,8 @@
 
 #import "ViewController.h"
 #import "TestVC1.h"
-
+#import "TestWMPageVC.h"
+#import "TestJXCategoryVC.h"
 
 @interface ViewController ()<UITableViewDelegate,UITableViewDataSource>
 
@@ -64,6 +65,10 @@
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
     if (indexPath.row == 0) {
         [self.navigationController pushViewController:[TestVC1 new] animated:YES];
+    }else if (indexPath.row == 1) {
+        [self.navigationController pushViewController:[TestWMPageVC new] animated:YES];
+    }else if (indexPath.row == 2) {
+        [self.navigationController pushViewController:[TestJXCategoryVC new] animated:YES];
     }
 }
 

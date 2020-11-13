@@ -7,5 +7,5 @@ target 'TestEmptyViewDemo' do
 
   pod 'JXCategoryView'
   pod 'WMPageController'
-
+  pod 'ZXEmptyView'
 end

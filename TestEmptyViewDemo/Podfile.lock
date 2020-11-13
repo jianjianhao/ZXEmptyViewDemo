@@ -1,20 +1,24 @@
 PODS:
   - JXCategoryView (1.5.8)
   - WMPageController (2.5.2)
+  - ZXEmptyView (1.0.9)
 
 DEPENDENCIES:
   - JXCategoryView
   - WMPageController
+  - ZXEmptyView
 
 SPEC REPOS:
   trunk:
     - JXCategoryView
     - WMPageController
+    - ZXEmptyView
 
 SPEC CHECKSUMS:
   JXCategoryView: 778a620f76070d6598fd8d7239991b8da8326170
   WMPageController: 0c7624d2b48e4f1ab92371688cf6744ed701575d
+  ZXEmptyView: b9c37dee284052f7a8226c243e4d10ed3a222eec
 
-PODFILE CHECKSUM: 083fe5eb49ae70a4676cec8693b63302e1aec221
+PODFILE CHECKSUM: 844421eeba5e2668f53b82c4ea8fd3c1a6e2cb29
 
 COCOAPODS: 1.9.3

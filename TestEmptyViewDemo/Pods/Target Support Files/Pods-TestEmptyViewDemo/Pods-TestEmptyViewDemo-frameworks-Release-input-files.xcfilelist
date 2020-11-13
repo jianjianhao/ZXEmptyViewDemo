@@ -1,3 +1,4 @@
 ${PODS_ROOT}/Target Support Files/Pods-TestEmptyViewDemo/Pods-TestEmptyViewDemo-frameworks.sh
 ${BUILT_PRODUCTS_DIR}/JXCategoryView/JXCategoryView.framework
 ${BUILT_PRODUCTS_DIR}/WMPageController/WMPageController.framework
+${BUILT_PRODUCTS_DIR}/ZXEmptyView/ZXEmptyView.framework

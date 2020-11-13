@@ -6,8 +6,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "BaseVC.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : BaseVC
 
 
 @end

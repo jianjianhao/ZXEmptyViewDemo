@@ -1,0 +1,20 @@
+PODS:
+  - JXCategoryView (1.5.8)
+  - WMPageController (2.5.2)
+
+DEPENDENCIES:
+  - JXCategoryView
+  - WMPageController
+
+SPEC REPOS:
+  trunk:
+    - JXCategoryView
+    - WMPageController
+
+SPEC CHECKSUMS:
+  JXCategoryView: 778a620f76070d6598fd8d7239991b8da8326170
+  WMPageController: 0c7624d2b48e4f1ab92371688cf6744ed701575d
+
+PODFILE CHECKSUM: 083fe5eb49ae70a4676cec8693b63302e1aec221
+
+COCOAPODS: 1.9.3

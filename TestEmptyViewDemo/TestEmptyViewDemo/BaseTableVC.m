@@ -41,8 +41,9 @@
     for (int i = 0; i < 30; i++) {
         [self.datas addObject:@(i)];
     }
-    [self.tableView reloadData];
     [self.tableView zx_endLoading];
+    [self.tableView reloadData];
+//    [self.tableView zx_endLoading]; //测试改在tableView reload之后也是有问题
 }
 
 #pragma mark lazy loading...
